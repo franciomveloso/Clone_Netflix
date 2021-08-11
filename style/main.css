@@ -14,7 +14,7 @@
 
 body{
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
 }
 
@@ -104,4 +104,9 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+    margin-left: 5px;;
+}
+
+.carrousel-filmes{
+    margin-top: 10px;
 }
